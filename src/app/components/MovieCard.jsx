@@ -8,7 +8,7 @@ const MovieCard = ({number}) => {
       <p>Title</p>
       <p>Genre: </p>
       <p>Rating:</p>
-      <div className='mt-2 bg-blue-500 text-white px-4 py-2 text-center rounded-md hover:shadow-md'>
+      <div className='mt-2 bg-green-700 text-white px-4 py-2 text-center rounded-md hover:shadow-md'>
         <Link href='/'>
           View Details
         </Link>

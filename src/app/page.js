@@ -6,7 +6,7 @@ import MovieCard from "./components/MovieCard";
 
 export default function Home() {
   return (
-    <div className="bg-gray-50">
+    <div className="bg-gray-200">
       <Header />
       <div className="w-full flex flex-col justify-center items-center">
         <h1 className="text-4xl">Welcome to MovieMania!</h1>

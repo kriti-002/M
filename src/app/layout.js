@@ -16,6 +16,7 @@ import { Roboto } from 'next/font/google'
 const roboto= Roboto({
   subsets: ["latin"], // Specify the font subsets you need
   weight: ["100", "300", "400", "500", "700", "900"], // Specify the font weights you need
+  display: 'swap',
 })
 export const metadata = {
   title: "Movie Mania",
